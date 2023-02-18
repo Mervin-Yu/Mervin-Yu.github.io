@@ -2,7 +2,7 @@
 
 > 在这里你可以了解到服务器的基本信息
 
-[](images/bg.jpg)
+(images/bg.jpg)
 
 欢迎进入Mirror Craft镜面工艺官方WIKI(*^▽^*)
 
