@@ -16,9 +16,9 @@
 
 \------------------------
 
-服务器官网：（即将上线，敬请期待）
+服务器官网：https://www.mirrorcraft.cloud
 
-服务器wiki：http://mcwiki.nezuko.love
+服务器wiki：https://wiki.mirrorcraft.cloud
 
 服务器开黑啦语音频道：https://kaihei.co/1s1ZAf
 
