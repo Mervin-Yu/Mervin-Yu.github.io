@@ -20,11 +20,15 @@
 
 服务器wiki：https://wiki.mirrorcraft.cloud
 
-服务器开黑啦语音频道：https://kaihei.co/1s1ZAf
+服务器KOOK语音频道：https://kaihei.co/1s1ZAf
 
 服务器MCMOD宣传贴地址：https://play.mcmod.cn/sv20186262.html
 
 服务器MCBBS宣传贴地址：https://www.mcbbs.net/thread-1339659-1-1.html
+
+服务器我的世界中文网宣传贴地址：https://www.minecraftzw.com/30936.html
+
+服务器B站专栏宣传：https://www.bilibili.com/read/cv21361763
 
 服务器B站宣传视频：https://b23.tv/KeuXBH8
 
