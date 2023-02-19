@@ -18,7 +18,15 @@
         loadNavbar: true,
         coverpage: true,
         auto2top: true,
-        search: 'auto'
+        search: 'auto',
+        search: {
+            maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+            paths: [], // or 'auto'
+            placeholder: '众里寻他千百度~',
+            noData: '无结果',
+            depth: 2,
+            hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+        }
     }
 </script>
 <!-- Docsify v4 -->
