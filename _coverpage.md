@@ -1,6 +1,5 @@
 ![logo](images/logo.png)
 
-![color](#000)
 
 # MirrorCraft <small>3.5</small>
 
@@ -12,3 +11,5 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
+
+![color](#000000)
