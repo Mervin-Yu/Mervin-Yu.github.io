@@ -1,8 +1,8 @@
-![logo](_media/icon.svg)
+![logo](images/logo.png)
 
-# docsify <small>3.5</small>
+# MirrorCraft <small>3.5</small>
 
-> 一个神奇的文档网站生成器。
+> 镜面工艺wiki
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
