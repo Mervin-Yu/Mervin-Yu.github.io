@@ -4,5 +4,3 @@
 [开始](#简介-introduction)
 
 ![](images/bg1.jpg)
-
-![color](#202020)
