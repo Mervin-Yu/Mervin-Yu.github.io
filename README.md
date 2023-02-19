@@ -2,8 +2,8 @@
 
 > 在这里你可以了解到服务器的基本信息
 
-<br>
-<br>
+
+
 ![](images/bg.jpg)
 
 ### 欢迎进入Mirror Craft镜面工艺官方WIKI(*^▽^*)
