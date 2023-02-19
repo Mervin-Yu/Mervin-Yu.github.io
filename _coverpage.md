@@ -1,5 +1,7 @@
 ![logo](images/logo.png)
 
+![color](#000)
+
 # MirrorCraft <small>3.5</small>
 
 > 镜面工艺wiki
